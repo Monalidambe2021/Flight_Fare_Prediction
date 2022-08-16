@@ -11,7 +11,7 @@ The test set contains 2671 records and 10 input features. The output ‘Price’
 Following is the features available in the dataset – Airline, Date_of_Journey, Source, Destination, Route, Dep_Time, Arrival_Time ,Duration, Total_Stops, Additional_Info, Price.
 
 # All the Lifecycle In A Data Science Project is divided into four parts:
-Exploratory Data Analysis
-Feature Engineering
-Feature selection
-Model Deployment
+1. Exploratory Data Analysis
+2. Feature Engineering
+3. Feature selection
+4. Model Deployment
